@@ -1,0 +1,1 @@
+ssh root@165.22.87.129 "cd ~/BaykusHafizaTeknikleri/cdn && git pull"
